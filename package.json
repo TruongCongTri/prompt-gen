@@ -9,10 +9,19 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^4.0.0",
+    "katex": "^0.16.27",
+    "latex": "^0.0.1",
     "lucide-react": "^0.562.0",
+    "mammoth": "^1.11.0",
     "next": "16.1.1",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-latex-next": "^3.0.0",
+    "react-markdown": "^10.1.0",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
